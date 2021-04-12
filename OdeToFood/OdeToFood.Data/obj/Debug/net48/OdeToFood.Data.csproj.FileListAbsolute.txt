@@ -1,0 +1,8 @@
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\net48\OdeToFood.Data.dll
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\bin\Debug\net48\OdeToFood.Data.pdb
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\net48\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\net48\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\net48\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\net48\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\net48\OdeToFood.Data.dll
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\MVC 5 Fundamentals\OdeToFood\OdeToFood.Data\obj\Debug\net48\OdeToFood.Data.pdb
