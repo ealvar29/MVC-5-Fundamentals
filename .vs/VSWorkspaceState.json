@@ -3,10 +3,11 @@
     "",
     "\\OdeToFood",
     "\\OdeToFood\\OdeToFood",
+    "\\OdeToFood\\OdeToFood\\App_Start",
     "\\OdeToFood\\OdeToFood\\Controllers",
     "\\OdeToFood\\OdeToFood\\Views",
     "\\OdeToFood\\OdeToFood\\Views\\Home"
   ],
-  "SelectedNode": "\\OdeToFood",
+  "SelectedNode": "\\OdeToFood\\OdeToFood\\App_Start\\ContainerConfig.cs",
   "PreviewInSolutionExplorer": false
 }
